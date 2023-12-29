@@ -19,7 +19,7 @@ The MNIST dataset is used for training and testing the model. It is a collection
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/mnist-cnn.git
+git clone https://github.com/sawanjr/mnist-cnn.git
 cd mnist-cnn
 ```
 
